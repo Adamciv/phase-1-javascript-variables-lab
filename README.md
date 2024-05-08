@@ -87,7 +87,7 @@ A few lines down in the `test/indexTest.js` file you will see:
 
 ```js
 describe('index.js', function () {
-  // there's stuff in here, too
+  // there's stuff in here, tooo
 });
 ```
 
